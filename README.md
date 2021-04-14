@@ -1,7 +1,7 @@
 # NaviGrip
 ## NaviGrip: A System for Indoor Positioning and Navigation
 
-Our team of 6 students worked with a team of 5 Intel engineers and as part of the engineering eduaction scheme (EEs), to develop a device capable of navigating indoor spaces as a showcase for the Genuinio 101 with its Intel-based Curie module.
+Our team of 6 students worked with a team of 5 Intel engineers and as part of the engineering eduaction scheme (EEs), to develop a device capable of navigating indoor spaces as a showcase for the Genuinio 101 with its Intel-based Curie module. By the end of the 6 month project, a prototype had been developed and was demonstrated at the University of Bath in 2017.
 
 ## Design
 
