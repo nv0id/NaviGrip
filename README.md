@@ -5,11 +5,11 @@ Our team of 6 students worked with a team of 5 Intel engineers and as part of th
 
 ## Design
 
-![Mark 3](./animation/output.gif)
+![Mark 3](./animations/output.gif)
 
-![Mark 3](./animation/output3.gif)
+![Mark 3](./animations/output3.gif)
 
-![Mark 3](./animation/output2.gif)
+![Mark 3](./animations/output2.gif)
 
 ## Acnowledgements
 
