@@ -15,9 +15,9 @@ Our team of 6 students worked with a team of 5 Intel engineers and as part of th
 
 ### The team:
 
-- Simran Chowdhry
+- [Simran Chowdhry](https://uk.linkedin.com/in/simran-chowdhry-75345817a)
 - Jack Kirkwood
-- Tuamos Laakonen
+- [Tuamos Laakonen](https://github.com/tuomas56)
 - Isabella Nicholson
 - Freddie Moorhead
 - Alexander Rowe
